@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Heetal Patel 👋
 
-<!--
-**heetalp26/heetalp26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical & Application Support Analyst | 15+ Years in SaaS, Enterprise & Financial Platforms
 
-Here are some ideas to get you started:
+I specialize in Tier I–III technical support, troubleshooting, and customer enablement for high-stakes, transaction-critical systems — from trading platforms to enterprise software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔧 What I Do
+
+
+Resolve complex technical issues under strict SLA guidelines
+Support financial/trading platforms (FIX protocol, EMS/OMS)
+Build documentation, SOPs, and self-service resources that scale support teams
+Bridge the gap between customers, QA, and engineering teams
+
+
+🛠️ Tools & Technologies
+
+Freshdesk Salesforce Assyst JIRA Active Directory Citrix
+SQL TCP/IP · DNS · DHCP Windows 10/11
+
+📈 Highlights
+
+
+Improved ticket resolution KPIs by up to 75% through workflow optimization
+Reduced client onboarding go-live time by 50%
+Authored technical support guides now used as team standards
+Enhanced Reliability Security Clearance (Government of Canada)
+
+
+🎓 Background
+
+MBA — West Texas A&M University
+BS, Computer Information Systems — Purdue University Fort Wayne
+
+
+📫 Let's connect: LinkedIn · heetalp@outlook.com
